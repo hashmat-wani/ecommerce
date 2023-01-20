@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "orders",
+  "info": {
+    "singularName": "order",
+    "pluralName": "orders",
+    "displayName": "order"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "products": {
+      "type": "json"
+    },
+    "userName": {
+      "type": "string",
+      "required": true
+    },
+    "stripeSessionId": {
+      "type": "string"
+    }
+  }
+}
