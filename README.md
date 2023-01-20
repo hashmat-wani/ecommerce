@@ -10,3 +10,20 @@ It's is built using:
 - The backend of the app is powered by Strapi, an open-source headless content management system, which allows us to easily manage and update our product catalog.
 
 Overall, this e-commerce app is designed to provide a fast and secure shopping experience for users, making it easy for them to purchase products with ease.
+
+# Home Page
+
+![](./readmeImages/home.png)
+![](./readmeImages/products.png)
+![](./readmeImages/footer.png)
+
+# Cart
+
+![](./readmeImages/cart.png)
+
+# Checkout
+
+![](./readmeImages/address.png)
+![](./readmeImages/contact.png)
+![](./readmeImages/payment.png)
+![](./readmeImages/success.png)
